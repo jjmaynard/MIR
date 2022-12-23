@@ -1,0 +1,169 @@
+---
+title: "Literature"
+site: workflowr::wflow_site
+output:
+  workflowr::wflow_html:
+    toc: false
+editor_options:
+  chunk_output_type: console
+---
+
+> S.R.S. Dangal, J. Sanderman, S. Wills, L. Ramirez-Lopez
+Accurate and precise prediction of soil properties from a large mid-infrared spectral library
+Soil Syst., 3 (2019), p. 11, 10.3390/soilsystems3010011
+
+> C. Gomez, T. Chevallier, P. Moulin, I. Bouferra, K. Hmaidi, D. Arrouays, C. Jolivet, B.G. Barthès
+Prediction of soil organic and inorganic carbon concentrations in Tunisian samples by mid-infrared reflectance spectroscopy using a French national library
+Geoderma, 375 (2020), Article 114469
+
+> C. Grinand, B.G. Barthes, D. Brunet, E. Kouakoua, D. Arrouays, C. Jolivet, G. Caria, M. Bernoux
+Prediction of soil organic and inorganic carbon contents at a national scale (France) using mid-infrared reflectance spectroscopy (MIRS)
+Eur. J. Soil Sci., 63 (2012), pp. 141-151
+
+> T. Hastie, R. Tibshirani, J. Friedman
+The Elements of Statistical Learning: Data Mining, Inference, and Prediction
+Springer Science & Business Media (2009)
+
+> R.J. Barnes, M.S. Dhanoa, S.J. Lister
+Standard normal variate transformation and de-trending of near-infrared diffuse reflectance spectra
+Appl. Spectrosc., 43 (1989), pp. 772-777
+
+> V. Bellon-Maurel, E. Fernandez-Ahumada, B. Palagos, J.-M. Roger, A. McBratney
+Prediction of soil attributes by NIR spectroscopy. A critical review of chemometric indicators commonly used for assessing the quality of the prediction
+Trends Anal. Chem., 29 (2010), pp. 1073-1081
+
+> L.J. Janik, J.O. Skjemstad
+Characterization and analysis of soils using mid-infrared partial least-squares. 2. Correlations with some laboratory data
+Soil Res., 33 (1995), pp. 637-650
+
+> C.T. Johnston, Y.O. Aochi
+Fourier transform infrared and Raman spectroscopy
+Methods Soil Anal. Part 3 Chem. Methods, 5 (1996), pp. 269-321
+
+> A. Landre, N.P.A. Saby, B.G. Barthès, C. Ratié, A. Guerin, A. Etayo, B. Minasny, M. Bardy, J.-D. Meunier, S. Cornu
+Prediction of total silicon concentrations in French soils using pedotransfer functions from mid-infrared spectrum and pedological attributes
+Geoderma, 331 (2018), pp. 70-80
+
+> I. Lawrence, K. Lin
+A concordance correlation coefficient to evaluate reproducibility
+Biometrics (1989), pp. 255-268
+
+> F. Le Guillou, W. Wetterlind, R.A. Viscarra Rossel, W. Hicks, M. Grundy, S. Tuomi
+How does grinding affect the mid-infrared spectra of soil and their multivariate calibrations to texture and organic carbon?
+Soil Res., 53 (2015), pp. 913-921
+
+> A unified approach to interpreting model predictions
+I. Guyon, U.V. Luxburg, S. Bengio, H. Wallach, R. Fergus, S. Vishwanathan, R. Garnett (Eds.), Advances in Neural Information Processing Systems 30, Curran Associates, Inc. (2017), pp. 4765-4774
+
+> C. Molnar, G. Casalicchio, B. Bischl
+Interpretable machine learning–a brief history, state-of-the-art and challenges
+ArXiv (2020)
+
+> W. Ng, B. Minasny, B.P. Malone, M.C. Sarathjith, B.S. Das
+Optimizing wavelength selection by using informative vectors for parsimonious infrared spectra modelling
+Comput. Electron. Agric., 158 (2019), pp. 201-210
+
+> W. Ng, B. Minasny, M. Montazerolghaem, J. Padarian, R. Ferguson, S. Bailey, A.B. McBratney
+Convolutional neural network for simultaneous prediction of several soil properties using visible/near-infrared, mid-infrared, and their combined spectra
+Geoderma, 352 (2019), pp. 251-267
+
+> W. Ng, B. Minasny, S.H. Jeon, A. McBratney
+Mid-infrared spectroscopy for accurate measurement of an extensive set of soil properties for assessing soil functions
+Soil Secur. (2022), p. 100043
+
+> F. Albineta, Y. Peng. T. Eguchid, E. Smolders, G. Dercon
+Prediction of exchangeable potassium in soil through mid-infrared spectroscopy and deep learning: From prediction to explainability
+Artificial Intelligence in Agriculture, 6, 2022, pp. 230-241
+
+> Y. Peng, M. Knadel, R. Gislum, K. Schelde, A. Thomsen, M.H. Greve
+Quantification of SOC and clay content using visible near-infrared reflectance–mid-infrared reflectance spectroscopy with Jack-knifing partial least squares regression
+Soil Sci., 179 (2014), pp. 325-332
+
+> J. Sanderman, K. Savage, S.R. Dangal
+Mid-infrared spectroscopy for prediction of soil health indicators in the United States
+Soil Sci. Soc. Am. J., 84 (2020), pp. 251-261
+
+> Z. Shen, R.A. Viscarra Rossel
+Automated spectroscopic modelling with optimised convolutional neural networks
+Sci. Rep., 11 (2021), pp. 1-12
+
+> M. Clairotte, C. Grinand, E. Kouakoua, A. Thébault, N.P. Saby, M. Bernoux, B.G. Barthès
+National calibration of soil organic carbon concentration using diffuse infrared reflectance spectroscopy
+Geoderma, 276 (2016), pp. 41-52
+
+> R.A. Viscarra Rossel, J. Bouma
+Soil sensing: a new paradigm for agriculture
+Agric. Syst., 148 (2016), pp. 71-74
+
+> Z. Shen, L. Ramirez-Lopez, T. Behrens, L. Cui, M. Zhang, L. Walden, J. Wetterlind, Z. Shi, K.A. Sudduth, P. Baumann, Y. Song, K. Catambay, R.A. Viscarra Rossel
+Deep transfer learning of global spectra for local soil carbon monitoring
+ISPRS J. Photogramm. Remote Sens., 188 (2022), pp. 190-200, 10.1016/j.isprsjprs.2022.04.009
+
+> K.D. Shepherd, M.G. Walsh
+Infrared spectroscopy—enabling an evidence-based diagnostic surveillance approach to agricultural and environmental management in developing countries
+J. Infrared Spectrosc., 15 (2007), pp. 1-19
+
+> A. Shrikumar, P. Greenside, A. Kundaje
+Learning important features through propagating activation differences
+ArXiv (2019)
+
+
+> W. de Sousa Mendes, J.A. Demattê, N.A. Rosin, F. da Silva Terra, R.R. Poppiel, D.F. Urbina-Salazar, C.L. Boechat, E.B. Silva, N. Curi, S.H.G. Silva
+The Brazilian soil mid-infrared spectral library: the power of the fundamental range
+Geoderma, 415 (2022), Article 115776
+
+> T. Terhoeven-Urselmans, T.-G. Vagen, O. Spaargaren, K.D. Shepherd
+Prediction of soil fertility properties from a globally distributed soil mid-infrared spectral library
+Soil Sci. Soc. Am. J., 74 (2010), pp. 1792-1799
+
+> R.A. Viscarra Rossel, T. Behrens
+Using data mining to model and interpret soil diffuse reflectance spectra
+Geoderma, 158 (2010), pp. 46-54
+
+> R.A. Viscarra Rossel, R.M. Lark
+Improved analysis and modelling of soil diffuse reflectance spectra using wavelets
+Eur. J. Soil Sci., 60 (2009), pp. 453-464
+
+> R.A. Viscarra Rossel, D.J.J. Walvoort, A.B. McBratney, L.J. Janik, J.O. Skjemstad
+Visible, near infrared, mid infrared or combined diffuse reflectance spectroscopy for simultaneous assessment of various soil properties
+Geoderma, 131 (2006), pp. 59-75
+
+> R.A. Viscarra Rossel, Y.S. Jeon, I.O.A. Odeh, A.B. McBratney
+Using a legacy soil sample to develop a mid-IR spectral libraryhttps://acsess.onlinelibrary.wiley.com/doi/10.1002/saj2.20194
+Soil Res., 46 (2008), pp. 1-16
+
+> R.A. Viscarra Rossel, T. Behrens, E. Ben-Dor, D.J. Brown, J.A.M. Demattê, K.D. Shepherd, Z. Shi, B. Stenberg, A. Stevens, V. Adamchuk
+A global spectral library to characterize the world’s soil
+Earth-Sci. Rev., 155 (2016), pp. 198-230
+
+> R.A. Viscarra Rossel, T. Behrens, E. Ben-Dor, S. Chabrillat, J.A.M. Demattê, Y. Ge, C. Gomez, C. Guerrero, Y. Peng, L. Ramirez-Lopez
+Diffuse reflectance spectroscopy for estimating soil properties: a technology for the 21st century
+European Journal of Soil Science, 73 (4) (2022)
+
+> N.K. Wijewardane, Y. Ge, S. Wills, Z. Libohova
+Predicting physical and chemical properties of US soils with a mid-infrared reflectance spectral library
+Soil Sci. Soc. Am. J., 82 (2018), pp. 722-731
+
+> C. Seybold, R. Ferguson, D. Wysocki, S. Bailey, J. Anderson, B. Nester, P. Schoeneberger, S. Wills, Z. Libohova, D. Hoover, and P. Thomas 
+Application of mid-infrared spectroscopy in soil survey. 
+Soil Sci. Soc. Am. J., 83 (2019):1746–1759
+
+> Comstock J.P., S.R. Sherpa, R. Ferguson, S. Bailey, J.P. Beem-Miller, F. Lin, J. Lehmann, and D.W. Wolfe
+Carbonate determination in soils by midIR spectroscopy with regional and continental scale models. 
+PLOS ONE 14(2)(2019):e0210235.
+
+> J. Baldock and B. Hawke
+Defining soil sample preparation requirements for MIR spectrographic analysis using principal components. 
+19th World Congress of Soil Science, Soil Solutions for a Changing World, Brisbane, Australia, August 1–6, 2010.
+
+> M.J. Dorantes, B. A. Fuentes, D. M. Miller
+Calibration set optimization and library transfer for soil carbon estimation using soil spectroscopy—A review
+Soil Sci. Soc. Am. J., 86 (2022): 879–903
+
+> K. Shepherd, R. Ferguson, D. Hoover, F. M. Van Egmond, J. Sanderman, Y. Ge
+A Global Soil Spectral Calibration Library and Estimation Service
+Soil Security, 7 (2022): 100061
+
+> Kellogg Soil Survey Laboratory Methods Manual, Version 6.0, Part 1: Current Methods (usda.gov), page 757.
+
+

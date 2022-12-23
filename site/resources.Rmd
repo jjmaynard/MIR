@@ -1,0 +1,62 @@
+---
+title: "Resources"
+site: workflowr::wflow_site
+output:
+  workflowr::wflow_html:
+    toc: false
+editor_options:
+  chunk_output_type: console
+---
+
+# R Packages:
+simplerspec: <https://github.com/philipp-baumann/simplerspec>
+tidySpectR: <https://cvua-rrw.github.io/tidySpectR/>
+ChemoSpec: <https://cran.r-project.org/web/packages/ChemoSpec/vignettes/ChemoSpec.pdf>
+ChemometricsWithR: <https://github.com/rwehrens/ChemometricsWithR (not on CRAN or currently updated)
+chemometrics: <https://cran.r-project.org/web/packages/chemometrics/index.html> 
+•	Vignette: <https://cran.r-project.org/web/packages/chemometrics/vignettes/chemometrics-vignette.pdf>
+prospectr: <https://cran.r-project.org/web/packages/prospectr/index.html> (simplerspec uses this package)
+•	Vignette: <https://cran.r-project.org/web/packages/prospectr/vignettes/prospectr.html> 
+mdatools: <https://www.mdatools.com/> 
+•	Vignette: <https://mdatools.com/docs/> 
+waves: Vis-NIR Spectral Analysis Wrapper <https://cran.r-project.org/web/packages/waves/index.html> 
+•	Vignette: <https://cran.r-project.org/web/packages/waves/vignettes/waves.html> 
+chemometrics:  (R companion to the book "Introduction to Multivariate Statistical Analysis in Chemometrics" written by K. Varmuza and P. Filzmoser (2009).)
+resemble: memory based learning
+spectral
+spectrum : Spectral Density Estimation (a fast adaptive spectral clustering method)
+soilspec: (package for book ‘Soil Spectral Inference with R’)
+soil.spec – old package, no longer maintained (Sila, Hengl, Terhoeven-Urselmans) https://rdrr.io/cran/soil.spec/
+
+# Online books:
+<https://whrc.github.io/Soil-Predictions-MIR/>
+
+#vPrint books:
+Chemometrics with R (<https://link.springer.com/book/10.1007/978-3-642-17841-2>)
+Soil Spectral Inference with R <https://link.springer.com/book/10.1007/978-3-030-64896-1> 
+
+#vOnline resources:
+<https://www.spectroscopyonline.com/view/a-survey-of-chemometric-methods-used-in-spectroscopy>
+<https://www.spectroscopyonline.com/view/survey-of-key-descriptive-references-for-chemometric-methods-used-for-spectroscopy-part-i>
+<https://www.spectroscopyonline.com/view/survey-of-key-descriptive-references-for-chemometric-methods-used-for-spectroscopy-part-ii>
+
+# Websites:
+<https://chemospec.org/>
+
+Soil Spectroscopy Efforts:
+<https://soilspectroscopy.org/> 
+
+# Webinars:
+GLOSOLAN Soil Spectroscopy Webinars: <https://www.youtube.com/@UNFAO/search?query=Soil%20Spectroscopy> 
+NRCS SPSD
+<https://www.youtube.com/playlist?list=PLtHaDC46Z996p-9FVmuKs3FFeeoYGd034>
+<https://www.youtube.com/watch?v=6WAPIjyKljQ>
+Tour of KSSL: <https://www.youtube.com/watch?v=BOW80LlCx-M>
+Soil Spectroscopy for the Global Good <https://av.tib.eu/series/1078/soil+spectroscopy+for+the+global+good> 
+ 
+
+
+
+
+
+
